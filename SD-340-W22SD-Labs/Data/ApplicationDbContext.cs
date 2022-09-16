@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using SD_340_W22SD_Labs.Models;
 
-namespace SD_330_W22SD_Labs.Data
+namespace SD_340_W22SD_Labs.Data
 {
     public class ApplicationDbContext : DbContext
     {
